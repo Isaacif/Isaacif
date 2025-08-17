@@ -54,7 +54,7 @@
 
 ## 📊 GitHub Stats
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac-ls&show_icons=true&theme=dark)
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaacif&show_icons=true&theme=dark)
 
 ## 🔗 Let's Connect!
 
