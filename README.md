@@ -43,14 +43,14 @@
 🔹 **20,000+ devices** recovered from obsolescence through firmware replacement  
 🔹 **5,000+ IoT installations** deployed and validated in field conditions  
 🔹 **20% performance boost** achieved in industrial calibration systems  
-🔹 **99%+ uptime** maintained across distributed sensor networks  
+🔹 **Product Certification** – Achieved eletromagnetic compatibility (EMC) test approval through compliant PCB design"
 
 ## 🌟 Fun Facts About Me
 
-- 🎸 **Musician**: I play keyboard and guitar - music and code both require rhythm and precision!
-- ⚽ **Football enthusiast**: Weekend warrior on the field, debugging on weekdays
-- 📚 **Fantasy reader**: Give me dragons, complex magic systems, and embedded systems documentation
-- 🤝 **Remote-first**: 4+ years collaborating across timezones (UTC-3 friendly!)
+- 🎸 **Musician**: I play keyboard and guitar - music is my resting place
+- ⚽ **Football (Soccer) enthusiast**: Weekend on the field, debugging on weekdays
+- 📚 **Fantasy reader**: from dragons and magic systems to embedded systems docs
+- 🤝 **Industry experience**: 4+ years developing and implementing real-world solutions for large enterprises
 
 ## 📊 GitHub Stats
 
